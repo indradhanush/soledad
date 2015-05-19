@@ -24,7 +24,6 @@ import json
 
 
 from leap.soledad.common.couch import CouchDatabase
-from itertools import izip
 from u1db import sync, Document
 from u1db.remote import http_app
 
